@@ -1,0 +1,7 @@
+Please be sure to append your data to this text file.
+
+If these first three lines are deleted, then your program is not functioning as expected.
+
+
+Your daily caloric needs for today: 4000
+Your daily caloric needs for today: 5000
